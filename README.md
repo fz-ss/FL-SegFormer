@@ -1,5 +1,7 @@
 # FL-SegFormer
-
+This repo is the official implementation for:
+Title:Advancing Rice Grain Impurity Segmentation with an Enhanced SegFormer and Multi-Scale Feature Integration
+(The details of our FL_SegFormer can be found at the models directory in this repo or in the paper. We take SegFormer for example.)
 ## Requirements
 
 * python 3.8
