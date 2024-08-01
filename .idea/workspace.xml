@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81389771-0656-4e60-a362-20afe263a2e2" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XnIu6TdjqAmutN2Ys89xsG5Dj4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yhz/Desktop/ConvFormer-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="ConvFormer-main" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="ConvFormer-main" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yhz\Desktop\ConvFormer-main\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration name="get_gflops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ConvFormer-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/get_gflops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hotmap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ConvFormer-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hotmap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hotmap2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ConvFormer-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\yhz\Desktop\ConvFormer-main\hotmap2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ConvFormer-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/predict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python train.py" type="PythonConfigurationType" factoryName="Python">
+      <module name="ConvFormer-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\yhz\.conda\envs\deeplab\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ConvFormer-main" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.predict" />
+        <item itemvalue="Python.hotmap2" />
+        <item itemvalue="Python.hotmap" />
+        <item itemvalue="Python.get_gflops" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="81389771-0656-4e60-a362-20afe263a2e2" name="变更" comment="" />
+      <created>1699258636354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699258636354</updated>
+      <workItem from="1699258637444" duration="13766000" />
+      <workItem from="1699337822454" duration="17526000" />
+      <workItem from="1699410943921" duration="4941000" />
+      <workItem from="1699615615099" duration="8921000" />
+      <workItem from="1699673560533" duration="3033000" />
+      <workItem from="1699773347646" duration="17015000" />
+      <workItem from="1699859045733" duration="39992000" />
+      <workItem from="1700290084546" duration="18385000" />
+      <workItem from="1700529579623" duration="32899000" />
+      <workItem from="1700794509281" duration="53172000" />
+      <workItem from="1701088603466" duration="65979000" />
+      <workItem from="1701585941230" duration="39562000" />
+      <workItem from="1701756233290" duration="20803000" />
+      <workItem from="1702284751988" duration="32000" />
+      <workItem from="1702885053605" duration="68765000" />
+      <workItem from="1703667192267" duration="1794000" />
+      <workItem from="1703669143015" duration="58000" />
+      <workItem from="1703676735652" duration="72000" />
+      <workItem from="1703683362476" duration="26780000" />
+      <workItem from="1704179352753" duration="69226000" />
+      <workItem from="1704888857704" duration="4688000" />
+      <workItem from="1704958132545" duration="4975000" />
+      <workItem from="1705062415937" duration="28075000" />
+      <workItem from="1705565658572" duration="26981000" />
+      <workItem from="1706171085498" duration="2383000" />
+      <workItem from="1706257914616" duration="103327000" />
+      <workItem from="1707532503931" duration="40163000" />
+      <workItem from="1708839101534" duration="17149000" />
+      <workItem from="1709178216830" duration="22283000" />
+      <workItem from="1709454106520" duration="13185000" />
+      <workItem from="1709687365721" duration="4896000" />
+      <workItem from="1709781203848" duration="1481000" />
+      <workItem from="1709800674052" duration="1373000" />
+      <workItem from="1709872718877" duration="2000" />
+      <workItem from="1709875136680" duration="27000" />
+      <workItem from="1709885032479" duration="4000" />
+      <workItem from="1709889555731" duration="10532000" />
+      <workItem from="1710244120519" duration="1624000" />
+      <workItem from="1710309851468" duration="488000" />
+      <workItem from="1710316605394" duration="2922000" />
+      <workItem from="1710485919638" duration="166000" />
+      <workItem from="1710486094068" duration="37000" />
+      <workItem from="1710493059795" duration="2899000" />
+      <workItem from="1710496767431" duration="6879000" />
+      <workItem from="1710581853019" duration="5384000" />
+      <workItem from="1710647040185" duration="616000" />
+      <workItem from="1710647678704" duration="1128000" />
+      <workItem from="1710664158276" duration="6268000" />
+      <workItem from="1710671267180" duration="107000" />
+      <workItem from="1710728586959" duration="219000" />
+      <workItem from="1710751709458" duration="770000" />
+      <workItem from="1710837621137" duration="2963000" />
+      <workItem from="1710934889554" duration="7074000" />
+      <workItem from="1711025086258" duration="1625000" />
+      <workItem from="1711270394943" duration="3135000" />
+      <workItem from="1711274808570" duration="1074000" />
+      <workItem from="1711275923029" duration="37000" />
+      <workItem from="1711332678956" duration="2597000" />
+      <workItem from="1711335307399" duration="881000" />
+      <workItem from="1711502544405" duration="4160000" />
+      <workItem from="1712470028270" duration="2504000" />
+      <workItem from="1712475694482" duration="799000" />
+      <workItem from="1712580067304" duration="1045000" />
+      <workItem from="1712581606722" duration="761000" />
+      <workItem from="1712652257516" duration="65000" />
+      <workItem from="1712662395852" duration="2702000" />
+      <workItem from="1712735880700" duration="607000" />
+      <workItem from="1712754695916" duration="21000" />
+      <workItem from="1713149950112" duration="5023000" />
+      <workItem from="1713247238265" duration="14353000" />
+      <workItem from="1713269312513" duration="2194000" />
+      <workItem from="1713335833043" duration="39000" />
+      <workItem from="1713335887715" duration="1349000" />
+      <workItem from="1713341759627" duration="2452000" />
+      <workItem from="1713344438317" duration="4833000" />
+      <workItem from="1713353313299" duration="25000" />
+      <workItem from="1714016300093" duration="3959000" />
+      <workItem from="1714304670039" duration="3178000" />
+      <workItem from="1714643556619" duration="3386000" />
+      <workItem from="1715590773155" duration="647000" />
+      <workItem from="1716961797765" duration="1191000" />
+      <workItem from="1722509792464" duration="1156000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/utils_gray.py</url>
+          <line>214</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/modules/unet2.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self.weight_dice" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ConvFormer_main$cam.coverage" NAME="cam 覆盖结果" MODIFIED="1702886106475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$test.coverage" NAME="test 覆盖结果" MODIFIED="1710670799008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$test2.coverage" NAME="test2 覆盖结果" MODIFIED="1713261737622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$ex.coverage" NAME="ex 覆盖结果" MODIFIED="1702886179975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$get_gflops.coverage" NAME="get_gflops 覆盖结果" MODIFIED="1711336084428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$fpn.coverage" NAME="fpn 覆盖结果" MODIFIED="1706960329063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/modules" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$fpn2.coverage" NAME="fpn2 覆盖结果" MODIFIED="1707633661798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/modules" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$attention.coverage" NAME="attention 覆盖结果" MODIFIED="1709038991005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/modules" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$predict.coverage" NAME="predict 覆盖结果" MODIFIED="1713343659477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$unet2.coverage" NAME="unet2 覆盖结果" MODIFIED="1709184793499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/modules" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$daformerhead.coverage" NAME="daformerhead 覆盖结果" MODIFIED="1705071383144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/modules" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$msf.coverage" NAME="msf 覆盖结果" MODIFIED="1704285959721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/modules" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$daformer.coverage" NAME="daformer 覆盖结果" MODIFIED="1704962254845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/modules" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$hotmap.coverage" NAME="hotmap 覆盖结果" MODIFIED="1713261206122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$train.coverage" NAME="train 覆盖结果" MODIFIED="1713350181838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$ema.coverage" NAME="ema 覆盖结果" MODIFIED="1703999387765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$apartconv.coverage" NAME="apartconv 覆盖结果" MODIFIED="1705575882681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/modules" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$python_train_py.coverage" NAME="python train.py 覆盖结果" MODIFIED="1701088768988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$segformer.coverage" NAME="segformer 覆盖结果" MODIFIED="1709038825288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$unet.coverage" NAME="unet 覆盖结果" MODIFIED="1704184491853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/modules" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$depthsperal.coverage" NAME="depthsperal 覆盖结果" MODIFIED="1705113079657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models/modules" />
+    <SUITE FILE_PATH="coverage/ConvFormer_main$split.coverage" NAME="split 覆盖结果" MODIFIED="1701593857560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

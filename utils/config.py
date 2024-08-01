@@ -1,0 +1,233 @@
+# This file is used to configure the training parameters for each task
+class Config_segformer:
+    data_path = "./data/"
+    save_path = "./bestweight/segformer/"
+    modelname = "segformer"
+    result_path = "./result/segformer/"
+    tensorboard_path = "./tensorboard/segformer/"
+    visual_result_path = "./Visualization/SEGISIC"
+    load_path = "C:/Users/yhz/Desktop/ConvFormer-main/model_data/segformer__799.pth"
+    save_path_code = "_"
+    workers = 1                  # number of data loading workers (default: 8)
+    epochs = 800                 # number of total epochs to run (default: 400)
+    batch_size = 8               # batch size (default: 4)
+    learning_rate = 1e-10         # initial learning rate (default: 0.001)
+    lr_limit_min = 3e-5
+    lr_decay_type = 'cos'
+    Min_lr = learning_rate * 0.01
+    momentum = 0.9               # momentum
+    classes = 4                  # the number of classes (background + foreground)
+    img_size = 256               # the input size of model
+    train_split = "train"  # the file name of training set
+    val_split = "test"     # the file name of testing set
+    test_split = "test"     # the file name of testing set
+    crop = None                  # the cropped image size
+    eval_freq = 1                # the frequency of evaluate the model
+    save_freq = 2000               # the frequency of saving the model
+    device = "cuda"              # training device, cpu or cuda
+    cuda = "on"                  # switch on/off cuda option (default: off)
+    gray = "no"                 # the type of input image
+    img_channel = 3              # the channel of input image
+    eval_mode = "slice"        # the mode when evaluate the model, slice level or patient level
+    pre_trained = True
+    mode = "train"
+    visual = True
+    phi = "b0"
+    pretrained = False
+    smooth = 1e-5
+
+class Config_fl_segformer:
+    data_path = "./data/"
+    save_path = "./bestweight/fl_segformer/"
+    modelname = "fl_segformer"
+    result_path = "./result/fl_segformer/"
+    tensorboard_path = "./tensorboard/fl_segformer/"
+    visual_result_path = "./Visualization/SEGISIC"
+    load_path = "C:/Users/yhz/Desktop/ConvFormer-main/model_data/fl_segformer__799.pth"
+    save_path_code = "_"
+    workers = 1                  # number of data loading workers (default: 8)
+    epochs = 800                 # number of total epochs to run (default: 400)
+    batch_size = 8               # batch size (default: 4)
+    learning_rate = 1e-10         # initial learning rate (default: 0.001)
+    lr_limit_min = 3e-5
+    lr_decay_type = 'cos'
+    Min_lr = learning_rate * 0.01
+    momentum = 0.9               # momentum
+    classes = 4                  # the number of classes (background + foreground)
+    img_size = 256               # the input size of model
+    train_split = "train"  # the file name of training set
+    val_split = "test"     # the file name of testing set
+    test_split = "test"     # the file name of testing set
+    crop = None                  # the cropped image size
+    eval_freq = 1               # the frequency of evaluate the model 5
+    save_freq = 2000               # the frequency of saving the model 2000
+    device = "cuda"              # training device, cpu or cuda
+    cuda = "on"                  # switch on/off cuda option (default: off)
+    gray = "no"                 # the type of input image
+    img_channel = 3              # the channel of input image
+    eval_mode = "slice"        # the mode when evaluate the model, slice level or patient level
+    pre_trained = True
+    mode = "train"
+    visual = True
+    phi = "b0"
+    pretrained = False
+    smooth = 1e-5
+class Config_unet:
+    data_path = "./data/"
+    save_path = "./bestweight/segformer/"
+    modelname = "segformer"
+    result_path = "./result/segformer/"
+    tensorboard_path = "./tensorboard/segformer/"
+    visual_result_path = "./Visualization/SEGISIC"
+    load_path = "C:/Users/yhz/Desktop/ConvFormer-main/model_data/deeplab_mobilenetv2.pth"
+    save_path_code = "_"
+    workers = 1                  # number of data loading workers (default: 8)
+    epochs = 800                 # number of total epochs to run (default: 400)
+    batch_size = 8               # batch size (default: 4)
+    learning_rate = 1e-4         # initial learning rate (default: 0.001)
+    lr_limit_min = 3e-5
+    lr_decay_type = 'cos'
+    Min_lr = learning_rate * 0.01
+    momentum = 0.9               # momentum
+    classes = 4                  # the number of classes (background + foreground)
+    img_size = 256               # the input size of model
+    train_split = "train"  # the file name of training set
+    val_split = "val"     # the file name of testing set
+    test_split = "test"     # the file name of testing set
+    crop = None                  # the cropped image size
+    eval_freq = 1               # the frequency of evaluate the model 5
+    save_freq = 2000               # the frequency of saving the model 2000
+    device = "cuda"              # training device, cpu or cuda
+    cuda = "on"                  # switch on/off cuda option (default: off)
+    gray = "no"                 # the type of input image
+    img_channel = 3              # the channel of input image
+    eval_mode = "slice"        # the mode when evaluate the model, slice level or patient level
+    pre_trained = True
+    mode = "train"
+    visual = False
+    phi = "b0"
+    pretrained = False
+    smooth = 1e-5
+class Config_pspnet:
+    data_path = "./data/"
+    save_path = "./bestweight/pspnet/"
+    modelname = "pspnet"
+    result_path = "./result/pspnet/"
+    tensorboard_path = "./tensorboard/pspnet/"
+    visual_result_path = "./Visualization/SEGISIC"
+    load_path = "C:/Users/yhz/Desktop/ConvFormer-main/model_data/deeplab_mobilenetv2.pth"
+    save_path_code = "_"
+    workers = 1                  # number of data loading workers (default: 8)
+    epochs = 800                 # number of total epochs to run (default: 400)
+    batch_size = 8               # batch size (default: 4)
+    learning_rate = 1e-4         # initial learning rate (default: 0.001)
+    lr_limit_min = 3e-5
+    lr_decay_type = 'cos'
+    Min_lr = learning_rate * 0.01
+    momentum = 0.9               # momentum
+    classes = 4                  # the number of classes (background + foreground)
+    img_size = 256               # the input size of model
+    train_split = "train"  # the file name of training set
+    val_split = "val"     # the file name of testing set
+    test_split = "test"     # the file name of testing set
+    crop = None                  # the cropped image size
+    eval_freq = 5              # the frequency of evaluate the model 5
+    save_freq = 2000               # the frequency of saving the model 2000
+    device = "cuda"              # training device, cpu or cuda
+    cuda = "on"                  # switch on/off cuda option (default: off)
+    gray = "no"                 # the type of input image
+    img_channel = 3              # the channel of input image
+    eval_mode = "slice"        # the mode when evaluate the model, slice level or patient level
+    pre_trained = True
+    mode = "train"
+    visual = False
+    phi = "b0"
+    pretrained = False
+    smooth = 1e-5
+class Config_hrnet:
+    data_path = "./data/"
+    save_path = "./bestweight/hrnet/"
+    modelname = "hrnet"
+    result_path = "./result/hrnet/"
+    tensorboard_path = "./tensorboard/hrnet/"
+    visual_result_path = "./Visualization/SEGISIC"
+    load_path = "C:/Users/yhz/Desktop/ConvFormer-main/model_data/deeplab_mobilenetv2.pth"
+    save_path_code = "_"
+    workers = 1                  # number of data loading workers (default: 8)
+    epochs = 800                 # number of total epochs to run (default: 400)
+    batch_size = 8               # batch size (default: 4)
+    learning_rate = 1e-4         # initial learning rate (default: 0.001)
+    lr_limit_min = 3e-5
+    lr_decay_type = 'cos'
+    Min_lr = learning_rate * 0.01
+    momentum = 0.9               # momentum
+    classes = 4                  # the number of classes (background + foreground)
+    img_size = 256               # the input size of model
+    train_split = "train"  # the file name of training set
+    val_split = "val"     # the file name of testing set
+    test_split = "test"     # the file name of testing set
+    crop = None                  # the cropped image size
+    eval_freq = 1               # the frequency of evaluate the model 5
+    save_freq = 2000               # the frequency of saving the model 2000
+    device = "cuda"              # training device, cpu or cuda
+    cuda = "on"                  # switch on/off cuda option (default: off)
+    gray = "no"                 # the type of input image
+    img_channel = 3              # the channel of input image
+    eval_mode = "slice"        # the mode when evaluate the model, slice level or patient level
+    pre_trained = True
+    mode = "train"
+    visual = False
+    phi = "b0"
+    pretrained = False
+    smooth = 1e-5
+
+class Config_deeplab:
+    data_path = "./data/"
+    save_path = "./bestweight/deeplab/"
+    modelname = "deeplab"
+    result_path = "./result/deeplab/"
+    tensorboard_path = "./tensorboard/deeplab/"
+    visual_result_path = "./Visualization/SEGISIC"
+    load_path = "C:/Users/yhz/Desktop/ConvFormer-main/model_data/deeplab_mobilenetv2.pth"
+    save_path_code = "_"
+    workers = 1                  # number of data loading workers (default: 8)
+    epochs = 800                 # number of total epochs to run (default: 400)
+    batch_size = 8               # batch size (default: 4)
+    learning_rate = 1e-4         # initial learning rate (default: 0.001)
+    lr_limit_min = 3e-5
+    lr_decay_type = 'cos'
+    Min_lr = learning_rate * 0.01
+    momentum = 0.9               # momentum
+    classes = 4                  # the number of classes (background + foreground)
+    img_size = 256               # the input size of model
+    train_split = "train"  # the file name of training set
+    val_split = "val"     # the file name of testing set
+    test_split = "test"     # the file name of testing set
+    crop = None                  # the cropped image size
+    eval_freq = 5               # the frequency of evaluate the model 5
+    save_freq = 2000               # the frequency of saving the model 2000
+    device = "cuda"              # training device, cpu or cuda
+    cuda = "on"                  # switch on/off cuda option (default: off)
+    gray = "no"                 # the type of input image
+    img_channel = 3              # the channel of input image
+    eval_mode = "slice"        # the mode when evaluate the model, slice level or patient level
+    pre_trained = True
+    mode = "train"
+    visual = False
+    phi = "b0"
+    pretrained = False
+    smooth = 1e-5
+# ==================================================================================================
+def get_config(task="Synapse"):
+    if task == "fl_segformer":
+        return Config_fl_segformer()
+    elif task == "segformer":
+        return Config_segformer()
+    elif task == "deeplab":
+        return Config_deeplab()
+    elif task == "unet":
+        return Config_unet()
+    elif task == "pspnet":
+        return Config_pspnet()
+    elif task == "hrnet":
+        return Config_hrnet()
