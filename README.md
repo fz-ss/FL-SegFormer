@@ -1,6 +1,6 @@
 # FL-SegFormer
 
-## Setup Environment
+## Requirements
 
 For this project, we used python 3.8.5. We recommend setting up a new virtual
 environment:
